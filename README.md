@@ -1,6 +1,7 @@
+![加菲猫](http://pic.cnblogs.com/avatar/614759/20150806155546.png)
+
 # IOS-Cer
 IOS Certificates, Identifiers &amp; Profiles
-![加菲猫](http://pic.cnblogs.com/avatar/614759/20150806155546.png)
 
 #真机调试步骤
 *    1、注册成为苹果开发者。
